@@ -15,8 +15,16 @@
 ### 运行效果
 
 <p align="center">
-  <img src="ScreenShot_2026-06-07_210651_552.png" alt="Publisher 运行截图" width="45%" />
-  <img src="ScreenShot_2026-06-07_210610_375.png" alt="Subscriber 运行截图" width="45%" />
+  <a href="https://youtu.be/IojZksXg0Ek">
+    <img src="ScreenShot_2026-06-07_210651_552.png" alt="Demo Video" width="45%" />
+  </a>
+  <a href="https://youtu.be/IojZksXg0Ek">
+    <img src="ScreenShot_2026-06-07_210610_375.png" alt="Demo Video" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  📺 <a href="https://youtu.be/IojZksXg0Ek">Watch Demo Video on YouTube</a>
 </p>
 
 <p align="center">
@@ -140,8 +148,16 @@ The SDK can also be cross-compiled for **Linux** and **ARM-Linux** platforms, en
 ### Screenshots
 
 <p align="center">
-  <img src="ScreenShot_2026-06-07_210651_552.png" alt="Publisher output" width="45%" />
-  <img src="ScreenShot_2026-06-07_210610_375.png" alt="Subscriber output" width="45%" />
+  <a href="https://youtu.be/IojZksXg0Ek">
+    <img src="ScreenShot_2026-06-07_210651_552.png" alt="Demo Video" width="45%" />
+  </a>
+  <a href="https://youtu.be/IojZksXg0Ek">
+    <img src="ScreenShot_2026-06-07_210610_375.png" alt="Demo Video" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  📺 <a href="https://youtu.be/IojZksXg0Ek">Watch Demo Video on YouTube</a>
 </p>
 
 <p align="center">
