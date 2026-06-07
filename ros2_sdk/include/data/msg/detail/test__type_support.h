@@ -1,0 +1,33 @@
+// generated from rosidl_generator_c/resource/idl__type_support.h.em
+// with input from data:msg\Test.idl
+// generated code does not contain a copyright notice
+
+#ifndef DATA__MSG__DETAIL__TEST__TYPE_SUPPORT_H_
+#define DATA__MSG__DETAIL__TEST__TYPE_SUPPORT_H_
+
+#include "rosidl_typesupport_interface/macros.h"
+
+#include "data/msg/rosidl_generator_c__visibility_control.h"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+#include "rosidl_runtime_c/message_type_support_struct.h"
+
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_C_PUBLIC_data
+const rosidl_message_type_support_t *
+ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(
+  rosidl_typesupport_c,
+  test_msgs,
+  msg,
+  Test
+)();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif  // DATA__MSG__DETAIL__TEST__TYPE_SUPPORT_H_

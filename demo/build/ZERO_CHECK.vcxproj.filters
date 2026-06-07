@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\githubWorkspace\Ros2Simple\demo\build\CMakeFiles\78e0af854eba3a9d19964cbe8babd7b6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CF2BD343-FF1D-3056-9DA6-11462940F940}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

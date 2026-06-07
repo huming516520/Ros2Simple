@@ -1,0 +1,10 @@
+^F:\GITHUBWORKSPACE\ROS2SIMPLE\DEMO\BUILD\CMAKEFILES\78E0AF854EBA3A9D19964CBE8BABD7B6\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SF:/githubWorkspace/Ros2Simple/demo -BF:/githubWorkspace/Ros2Simple/demo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/githubWorkspace/Ros2Simple/demo/build/demo_pubsub.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
