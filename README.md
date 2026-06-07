@@ -63,7 +63,7 @@ Ros2Simple/
 
 1. 克隆本项目：
    ```bash
-   git clone https://github.com/your-username/Ros2Simple.git
+   git clone https://github.com/huming516520/Ros2Simple.git
    cd Ros2Simple
    ```
 
@@ -188,7 +188,7 @@ Ros2Simple/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Ros2Simple.git
+   git clone https://github.com/huming516520/Ros2Simple.git
    cd Ros2Simple
    ```
 
